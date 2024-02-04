@@ -5,11 +5,8 @@ This project is a static web page that replicates the user interface of Netflix.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Deployment](#deployment)
 
 ## Introduction
 
